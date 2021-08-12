@@ -6,7 +6,7 @@ export default function Grid() {
              
     <div className="container cont">
         <div className="row">
-            <div className="col-md-3 mt-4">
+            <div className="col-md-3 mt-8">
 
                 <div className="card my-card">
                     <img className="card-img-top"
@@ -21,7 +21,7 @@ export default function Grid() {
                 </div>
             </div>
 
-            <div className="col-md-3 mt-4">
+            <div className="col-md-3 mt-8">
 
                 <div className="card my-card">
                     <img className="card-img-top"
@@ -36,7 +36,7 @@ export default function Grid() {
                 </div>
             </div>
 
-            <div className="col-md-3 mt-4">
+            <div className="col-md-3 mt-8">
 
                 <div className="card my-card">
                     <img className="card-img-top"
@@ -51,7 +51,7 @@ export default function Grid() {
                 </div>
             </div>
 
-            <div className="col-md-3 mt-4">
+            <div className="col-md-3 mt-8">
 
            <div className="card my-card">
           <img className="card-img-top"

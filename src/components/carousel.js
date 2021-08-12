@@ -42,9 +42,11 @@ b
 <button className="btn btn-outline-primary" type="submit">Tv Shows</button>
 {/* <h3 > <b>  Watch Anything Anywhere Anytime </b></h3> */}
 <h5 className="float-end"> <a href="">See All</a></h5>
+  
+</div>
 
 
-        </div>
+       
 
         
     )
