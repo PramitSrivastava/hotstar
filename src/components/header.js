@@ -30,12 +30,7 @@ export default function Header() {
             <li>
               <Link className="dropdown-item"  to="/Adventure">Adventure</Link>
               </li>
-            <li><a className="dropdown-item" href="#">Animated</a></li>
-            <li><a className="dropdown-item" href="#">Historical</a></li>
-            <li><a className="dropdown-item" href="#">Crime</a></li>
-            <li><a className="dropdown-item" href="#">Sports</a></li>
-            <li><a className="dropdown-item" href="#">Romentic</a></li>
-            <li><a className="dropdown-item" href="#">Comedy</a></li>
+            
             {/* <li><hr className="dropdown-divider"/></li>
             <li><a className="dropdown-item" href="#">Something else here</a></li> */}
           </ul>
